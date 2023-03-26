@@ -1,2 +1,2 @@
-# Capstone_project
-for capstone_project (IBM applied data science certificate)
+# Capstone_project (Coursera IBM applied data science certificate)
+All jupyternotebook working files and final deliverable
